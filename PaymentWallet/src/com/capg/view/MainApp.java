@@ -188,7 +188,7 @@ public class MainApp {
 			
 		}while(ch!=6);
 		
-System.out.println("Thank You !!");
+System.out.println("Thank You for using my application!!");
 	}
 
 }
